@@ -79,50 +79,7 @@ function verTipoMaterial(material){
         resposta.style.fontFamily = 'Verdana'
         resposta.innerHTML += '<br>'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-    
-        
-    
-
     })
+
+        //a função principal foi substituida pelo arrow function ()=>
+        
